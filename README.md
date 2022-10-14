@@ -1,2 +1,2 @@
 # twosum-leetcode
-it's the solution for leetcode (two sum problem).do follow me for more leetcode solutions
+In this repository I had uploaded Solution for Two Sum (for leetcode Question).Do follow me for further answers of leetcode questions
